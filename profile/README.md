@@ -1,12 +1,5 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+버킷리스트 작성
+버킷리스트 이룬 과정 작성
+버킷리스트 게시글을 게시
+질문을 자유롭게 올리고 그 질문에 대한 답을 함
+내 프로필에 내가 답변한 질문-대답이 뜨고 그 사람이 마음에 돌면 토론을 함
